@@ -9,8 +9,8 @@ import random
 import time
 import sys
 
-# Gizli mesaj (base64): VMO8cmtpeWUnZGUgaGVyIMWfZXkgS2F5Ym9sdXIsIMOnb3JhcGxhciBiaWxlIQ==
-# (decode ederseniz anlarsınız, ama lütfen etmeyin)
+# Gizli mesaj (base64): QnUgc2lzdGVtZGUgaGVyIHNleSBrYXlib2x1ciBjb3JhcGxhciBnaWJpLCBkZW1va3Jhc2kgZGUgbWk/
+# (decode ederseniz anlarsınız, ama lütfen etmeyin. Ciddi iş.)
 
 def dramatik_bekle(mesaj, sure=1.5):
     print(mesaj, end="", flush=True)
